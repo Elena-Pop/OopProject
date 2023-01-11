@@ -4,4 +4,10 @@
     void porneste() {
         System.out.println("Tableta porneste");
     }
-    private
+
+     @Override
+     void seOpreste() {
+
+     }
+ }
+

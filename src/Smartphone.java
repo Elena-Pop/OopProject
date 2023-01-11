@@ -5,4 +5,9 @@ public class Smartphone extends Device{
         System.out.println("Telefonul porneste");
     }
 
+    @Override
+    void seOpreste() {
+
+    }
+
 }
