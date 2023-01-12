@@ -93,6 +93,17 @@ public class Main {
         maratonist1.seOdihneste();
 
 
+        Smartphone smartphoneIOS=new SmartphoneIOS();
+        Smartphone smartphoneAndroid= new SmartphoneAndroid();
+        smartphoneIOS.porneste();
+        smartphoneIOS.seOpreste();
+        smartphoneAndroid.porneste();
+        smartphoneAndroid.seOpreste();
+        
+
+
+
+
 
 
 

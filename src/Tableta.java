@@ -6,9 +6,8 @@
     }
 
      @Override
-     void seOpreste() {
-
-
+     void seOpreste(){
+         System.out.println("Tableta se opreste");
 
 
      }
