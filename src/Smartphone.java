@@ -10,11 +10,20 @@ public class Smartphone extends Device{
         System.out.println("Telefonul se opreste");
 
     }
-    private String marca= "no name";
+    String marca= "no name";
+     int pret= 2000;
+
+    public Smartphone(String marca, int pret) {
+        this.marca = marca;
+        this.pret = pret;
+    }
 
     public void setMarca(String marca) {
         this.marca = marca;
     }
+
+
+
 
 
 
