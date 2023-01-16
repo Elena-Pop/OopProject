@@ -23,15 +23,10 @@ public class StructuriDeDate {
 
      //   System.out.println(dictionarulNostru.entrySet());
 
-        HashMap<String, Boolean > cineTreceExamenul= new HashMap<>();
-        cineTreceExamenul.put("Andrei", false);
-        cineTreceExamenul.put("Dan", true);
-        cineTreceExamenul.put("Mara", true);
-        cineTreceExamenul.put("Alin", true);
-        cineTreceExamenul.put("Ana", false);
-        cineTreceExamenul.forEach();
 
-        }
+
+
+
 
 
 
